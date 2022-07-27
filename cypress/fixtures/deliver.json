@@ -1,0 +1,57 @@
+{
+    "signup": {
+            "name": "Lucas cruz",
+            "cpf": "00000041414",
+            "email": "lucas@hotmail.com",
+            "whatsapp": "11999999999",
+            "address":{
+                "postalcode":"05782450",
+                "street": "Rua Pedrina Maria da Silva Valente",
+                "number": "44",
+                "details": "Condominio horto ho ype",
+                "district": "Parque Munhoz",
+                "city_state": "São Paulo/SP"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg.jpg"
+    },
+
+    "cpf_inv": {
+             "name": "Lucas cruz",
+            "cpf": "000000414AA",
+            "email": "lucas@hotmail.com",
+            "whatsapp": "11999999999",
+            "address":{
+                "postalcode":"05782450",
+                "street": "Rua Pedrina Maria da Silva Valente",
+                "number": "44",
+                "details": "Condominio horto ho ype",
+                "district": "Parque Munhoz",
+                "city_state": "São Paulo/SP"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg.jpg"
+
+    },
+
+    "email_inv": {
+        "name": "Lucas cruz",
+       "cpf": "00000041441",
+       "email": "lucas.com.br",
+       "whatsapp": "11999999999",
+       "address":{
+           "postalcode":"05782450",
+           "street": "Rua Pedrina Maria da Silva Valente",
+           "number": "44",
+           "details": "Condominio horto ho ype",
+           "district": "Parque Munhoz",
+           "city_state": "São Paulo/SP"
+
+       },
+       "delivery_method": "Moto",
+       "cnh": "cnh-digital.jpg.jpg"
+
+    }
+}
